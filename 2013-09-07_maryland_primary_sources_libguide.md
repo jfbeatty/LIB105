@@ -1,4 +1,4 @@
-# Primary, Secondary and Tertiary Sources [top]
+# <a id="top"></a> Primary, Secondary and Tertiary Sources
 
 **Scope:** As you conduct research, you will consult different sources
 of information. A professor may request **primary**, **secondary**, or
@@ -7,10 +7,10 @@ terms and gives examples for each category.
 
 ## Table of Contents
 
--   [Primary Sources][]  
--   [Secondary Sources][]  
--   [Tertiary Sources][]  
--   [Comparison Across the Disciplines][]  
+-   [Primary Sources](#primary)  
+-   [Secondary Sources](#secondary)  
+-   [Tertiary Sources](#tertiary)  
+-   [Comparison Across the Disciplines](#comparison)  
 
 > **IMPORTANT NOTE:**
 >
@@ -29,7 +29,7 @@ terms and gives examples for each category.
 >     are presented in the popular media, the magazine article could be
 >     considered a primary source.
 
-## Primary Sources
+## <a id="primary"></a> Primary Sources
 
 **Definition:**
 
@@ -68,9 +68,9 @@ discipline or context.
     sculptures, musical scores, buildings, novels, poems)
 -   Web sites
 
-[Return to top][top]
+[Return to top](#top)
 
-## Secondary Sources
+## <a id="secondary"></a> Secondary Sources
 
 **Definition:**
 
@@ -98,9 +98,9 @@ the discipline or context.
 -   Textbooks (also considered tertiary)
 -   Web site (also considered primary)
 
-[Return to top][top]
+[Return to top](#top)
 
-## Tertiary Sources
+## <a id="tertiary"></a> Tertiary Sources
 
 **Definition:**
 
@@ -119,9 +119,9 @@ collection of primary and secondary sources.
 -   Manuals
 -   Textbooks (can also be secondary)
 
-[Return to top][top]
+[Return to top](#top)
 
-## Comparison Across the Disciplines
+## <a id="comparison"></a> Comparison Across the Disciplines
 
 | **Subject** | **Primary** | **Secondary** | **Tertiary** |
 | -------- | -------- | ------- | ------- |
@@ -132,6 +132,6 @@ collection of primary and secondary sources.
  **Social Sciences** | Notes taken by clinical psychologist | Magazine article about the psychological condition | Textbook on clinical psychology |
  **Performing Arts** | Movie filmed in 1942 | Biography of the director | Guide to the movie |
 
-[Return to top][top]
+[Return to top](#top)
 
 *Adapted from a [handout](http://web.archive.org/web/20120204055824/http://www.lib.umd.edu/guides/primary-sources.html) by the University of Maryland libraries*
