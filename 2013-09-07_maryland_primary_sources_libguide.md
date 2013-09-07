@@ -1,4 +1,4 @@
-# <a id="top"></a> Primary, Secondary and Tertiary Sources
+# <a name="top"></a> Primary, Secondary and Tertiary Sources
 
 **Scope:** As you conduct research, you will consult different sources
 of information. A professor may request **primary**, **secondary**, or
@@ -29,7 +29,7 @@ terms and gives examples for each category.
 >     are presented in the popular media, the magazine article could be
 >     considered a primary source.
 
-## <a id="primary"></a> Primary Sources
+## <a name="primary"></a>Primary Sources
 
 **Definition:**
 
@@ -70,7 +70,7 @@ discipline or context.
 
 [Return to top](#top)
 
-## <a id="secondary"></a> Secondary Sources
+## <a name="secondary"></a>Secondary Sources
 
 **Definition:**
 
@@ -100,7 +100,7 @@ the discipline or context.
 
 [Return to top](#top)
 
-## <a id="tertiary"></a> Tertiary Sources
+## <a name="tertiary"></a>Tertiary Sources
 
 **Definition:**
 
@@ -121,7 +121,7 @@ collection of primary and secondary sources.
 
 [Return to top](#top)
 
-## <a id="comparison"></a> Comparison Across the Disciplines
+## <a name="comparison"></a>Comparison Across the Disciplines
 
 | **Subject** | **Primary** | **Secondary** | **Tertiary** |
 | -------- | -------- | ------- | ------- |
