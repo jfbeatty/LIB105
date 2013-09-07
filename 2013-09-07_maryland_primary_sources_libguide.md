@@ -7,10 +7,10 @@ terms and gives examples for each category.
 
 ## Table of Contents
 
--   [Primary Sources](#primary)  
--   [Secondary Sources](#secondary)  
--   [Tertiary Sources](#tertiary)  
--   [Comparison Across the Disciplines](#comparison)  
+-   [Primary Sources](#primary-sources)  
+-   [Secondary Sources](#secondary-sources)  
+-   [Tertiary Sources](#tertiary-sources)  
+-   [Comparison Across the Disciplines](#comparison-across-the-disciplines)  
 
 > **IMPORTANT NOTE:**
 >
@@ -29,7 +29,7 @@ terms and gives examples for each category.
 >     are presented in the popular media, the magazine article could be
 >     considered a primary source.
 
-## <a id="primary"></a> Primary Sources
+## Primary Sources
 
 **Definition:**
 
@@ -70,7 +70,7 @@ discipline or context.
 
 [Return to top](#top)
 
-## <a id="secondary"></a> Secondary Sources
+## Secondary Sources
 
 **Definition:**
 
@@ -100,7 +100,7 @@ the discipline or context.
 
 [Return to top](#top)
 
-## <a id="tertiary"></a> Tertiary Sources
+## Tertiary Sources
 
 **Definition:**
 
@@ -121,7 +121,7 @@ collection of primary and secondary sources.
 
 [Return to top](#top)
 
-## <a id="comparison"></a> Comparison Across the Disciplines
+## Comparison Across the Disciplines
 
 | **Subject** | **Primary** | **Secondary** | **Tertiary** |
 | -------- | -------- | ------- | ------- |
